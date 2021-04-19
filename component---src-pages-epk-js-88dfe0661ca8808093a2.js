@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{XTka:function(n,t,e){"use strict";e.r(t);var i=e("q1tI"),o=e.n(i);t.default=function(){return Object(i.useEffect)((function(){window.location.assign("https://lp4ul.online/epk.pdf")}),[]),o.a.createElement("div",null)}}}]);
+//# sourceMappingURL=component---src-pages-epk-js-88dfe0661ca8808093a2.js.map
